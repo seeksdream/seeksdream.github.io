@@ -1,0 +1,1 @@
+@charset "UTF-8";.my-node-style{background-color:#00ced1!important}.my-node-style:hover{background-color:red!important}@keyframes myFlash{0%{opacity:1}50%{opacity:.4}to{opacity:1}}@-webkit-keyframes myFlash{0%{opacity:1}50%{opacity:.4}to{opacity:1}}.my-node-style{animation:myFlash .6s infinite;-webkit-animation:myFlash .6s infinite}
